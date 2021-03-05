@@ -16,6 +16,9 @@ import logging
 import patterns
 import view
 
+import argparse
+import socket
+
 logging.basicConfig(filename='view.log', level=logging.DEBUG)
 logger = logging.getLogger()
 
@@ -50,14 +53,19 @@ class IRCClient(patterns.Subscriber):
     def add_msg(self, msg):
         self.view.add_msg(self.username, msg)
 
-    async def run(self):
+    async def run(self, args):
         """
         Driver of your IRC Client
         """
         # Remove this section in your code, simply for illustration purposes
-        for x in range(10):
-            self.add_msg(f"call after View.loop: {x}")
-            await asyncio.sleep(2)
+        # for x in range(10):
+        #     self.add_msg(f"call after View.loop: {x}")
+        #     await asyncio.sleep(2)
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+            s.connect((args.server, int(args.port)))
+            s.sendall(b'Hello, world')
+            data = s.recv(1024)
+        print('Received', repr(data))
 
     def close(self):
         # Terminate connection
@@ -79,7 +87,7 @@ def main(args):
         async def inner_run():
             await asyncio.gather(
                 v.run(),
-                client.run(),
+                client.run(args),
                 return_exceptions=True,
             )
         try:
@@ -90,5 +98,10 @@ def main(args):
 
 if __name__ == "__main__":
     # Parse your command line arguments here
-    args = None
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--server", help = "Target server to initiate a connection to.", required = False, default = "")
+    parser.add_argument("--port", help = "Target port to use.", required = False, default = "")
+
+    args = parser.parse_args()
+
     main(args)

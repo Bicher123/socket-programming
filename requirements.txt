@@ -1,4 +1,3 @@
 asyncio
-logging
 windows-curses
 pathlib
