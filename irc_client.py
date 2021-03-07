@@ -11,6 +11,7 @@ Description:
 
 """
 import asyncio
+from asyncio.windows_events import NULL
 import logging
 
 import patterns
@@ -18,16 +19,23 @@ import view
 
 import argparse
 import socket
+import select
 
+HEADER = 64
+PORT = 8080
+FORMAT = 'utf-8'
+DISCONNECT_MESSAGE = "!DISCONNECT"
+SERVER = "127.0.0.1"
+ADDR = (SERVER, PORT)
 logging.basicConfig(filename='view.log', level=logging.DEBUG)
 logger = logging.getLogger()
-
 
 class IRCClient(patterns.Subscriber):
 
     def __init__(self):
         super().__init__()
         self.username = str()
+        self.server=NULL
         self._run = True
 
     def set_view(self, view):
@@ -52,23 +60,46 @@ class IRCClient(patterns.Subscriber):
 
     def add_msg(self, msg):
         self.view.add_msg(self.username, msg)
+        message = msg.encode(FORMAT)
+        msg_length = len(message)
+        send_length = str(msg_length).encode(FORMAT)
+        send_length += b' ' * (HEADER - len(send_length))
+        self.server.send(send_length)
+        self.server.send(message)
+        # temp = 
+        self.view.add_msg(self.username, self.server.recv(1024).decode(FORMAT))
+        # logger.debug(f"+++++++++++++++++++++++++++++ {temp}")
 
     async def run(self, args):
         """
         Driver of your IRC Client
-        """
-        # Remove this section in your code, simply for illustration purposes
-        # for x in range(10):
-        #     self.add_msg(f"call after View.loop: {x}")
-        #     await asyncio.sleep(2)
-        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-            s.connect((args.server, int(args.port)))
-            s.sendall(b'Hello, world')
-            data = s.recv(1024)
-        print('Received', repr(data))
+        """ 
+        c = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        c.connect((args.server, int(args.port)))
+        c.setblocking(0)
+        self.server = c
 
+        while True:
+            # temp = self.server.recv(1024).decode(FORMAT)
+            # self.view.add_msg("other ", "temp".encode(FORMAT))
+            
+            sockets_list = [self.server]
+            read_sockets,write_socket, error_socket = select.select(sockets_list, [], [])
+            for socks in read_sockets:
+                print("hehhe")
+                if socks == self.server:
+                    message = socks.recv(2048)
+                    thread = threading.Thread(target= self.view.add_msg(self.username, message))
+                    thread.start()
+                    logger.debug(f"+++++++++++++++++++++++++++++ {message}")
+                else:
+                    break
+            
+   
+  
     def close(self):
         # Terminate connection
+        self.server.close()
         logger.debug(f"Closing IRC Client object")
         pass
 
@@ -77,6 +108,8 @@ class IRCClient(patterns.Subscriber):
 def main(args):
     # Pass your arguments where necessary
     client = IRCClient()
+    print("Please Select a username")
+    client.username =input(f"username  >")
     logger.info(f"Client object created")
     with view.View() as v:
         logger.info(f"Entered the context of a View object")
@@ -103,5 +136,5 @@ if __name__ == "__main__":
     parser.add_argument("--port", help = "Target port to use.", required = False, default = "")
 
     args = parser.parse_args()
-
+    
     main(args)
