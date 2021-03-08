@@ -20,6 +20,7 @@ import view
 import argparse
 import socket
 import select
+import threading
 
 HEADER = 64
 PORT = 8080
@@ -34,7 +35,7 @@ class IRCClient(patterns.Subscriber):
 
     def __init__(self):
         super().__init__()
-        self.username = str()
+        self.nickname= str()
         self.server=NULL
         self._run = True
 
@@ -42,7 +43,6 @@ class IRCClient(patterns.Subscriber):
         self.view = view
 
     def update(self, msg):
-        # Will need to modify this
         if not isinstance(msg, str):
             raise TypeError(f"Update argument needs to be a string")
         elif not len(msg):
@@ -52,64 +52,68 @@ class IRCClient(patterns.Subscriber):
         self.process_input(msg)
 
     def process_input(self, msg):
-        # Will need to modify this
         self.add_msg(msg)
         if msg.lower().startswith('/quit'):
             # Command that leads to the closure of the process
+            self.server.send(f"DISCONNECT".encode('utf-8'))
             raise KeyboardInterrupt
 
     def add_msg(self, msg):
-        self.view.add_msg(self.username, msg)
-        message = msg.encode(FORMAT)
-        msg_length = len(message)
-        send_length = str(msg_length).encode(FORMAT)
-        send_length += b' ' * (HEADER - len(send_length))
-        self.server.send(send_length)
-        self.server.send(message)
-        # temp = 
-        self.view.add_msg(self.username, self.server.recv(1024).decode(FORMAT))
-        # logger.debug(f"+++++++++++++++++++++++++++++ {temp}")
+        if(msg[0:4] == "NICK"):
+            message =msg[0:4] + " " + self.nickname +" " + msg[5:] 
+            self.server.send(message.encode('utf-8'))
+        else:
+            self.view.add_msg(self.nickname, msg)
+            message = self.nickname + "<:::>" + msg
+            self.server.send(message.encode('utf-8'))
+
+    def handle_received_message(self,msg): 
+        # split the message to seperate the nickname and the message
+        splitted_msg = msg.split("<:::>")
+        nickname = splitted_msg[0]
+        message = splitted_msg[1]
+        # accepts received message only from clients other than itself
+        if(nickname != self.nickname):
+            self.view.add_msg(str(nickname), message)
+    
+    def receive_messages(self):
+        while True:
+            try:
+                message = self.server.recv(1024).decode('utf-8')
+                if message =="-CLOSE-":
+                    self.close()
+                if message[0:4] == 'NICK':
+                    self.nickname = message[5:]
+                    self.view.add_msg("#global", "Welcome " + self.nickname)
+                else:
+                    self.handle_received_message(message)
+            except:
+                # close the connection if receive failed
+                self.server.close()
+                break
 
     async def run(self, args):
         """
         Driver of your IRC Client
         """ 
+        # initialize socket
         c = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         c.connect((args.server, int(args.port)))
-        c.setblocking(0)
+        # set connection in self.server
         self.server = c
+         # handle receiving thread
+        receive_thread = threading.Thread(target=self.receive_messages)
+        receive_thread.start()
 
-        while True:
-            # temp = self.server.recv(1024).decode(FORMAT)
-            # self.view.add_msg("other ", "temp".encode(FORMAT))
-            
-            sockets_list = [self.server]
-            read_sockets,write_socket, error_socket = select.select(sockets_list, [], [])
-            for socks in read_sockets:
-                print("hehhe")
-                if socks == self.server:
-                    message = socks.recv(2048)
-                    thread = threading.Thread(target= self.view.add_msg(self.username, message))
-                    thread.start()
-                    logger.debug(f"+++++++++++++++++++++++++++++ {message}")
-                else:
-                    break
-            
-   
-  
     def close(self):
-        # Terminate connection
+        # close connection   
         self.server.close()
         logger.debug(f"Closing IRC Client object")
         pass
 
-
-
 def main(args):
     # Pass your arguments where necessary
     client = IRCClient()
-    print("Please Select a username")
-    client.username =input(f"username  >")
     logger.info(f"Client object created")
     with view.View() as v:
         logger.info(f"Entered the context of a View object")
@@ -127,6 +131,7 @@ def main(args):
             asyncio.run( inner_run() )
         except KeyboardInterrupt as e:
             logger.debug(f"Signifies end of process")
+            
     client.close()
 
 if __name__ == "__main__":
@@ -134,7 +139,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--server", help = "Target server to initiate a connection to.", required = False, default = "")
     parser.add_argument("--port", help = "Target port to use.", required = False, default = "")
-
     args = parser.parse_args()
-    
+       
     main(args)
+   
+
