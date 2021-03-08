@@ -1,0 +1,2155 @@
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hi
+INFO:root:IRCClient.update -> msg: hi
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hi
+INFO:root:IRCClient.update -> msg: hi
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hi
+INFO:root:IRCClient.update -> msg: hi
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 8
+DEBUG:root:Character int: 121
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: muy
+INFO:root:IRCClient.update -> msg: muy
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: f
+INFO:root:IRCClient.update -> msg: f
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: m
+INFO:root:IRCClient.update -> msg: m
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hi
+INFO:root:IRCClient.update -> msg: hi
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 59
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: g;
+INFO:root:IRCClient.update -> msg: g;
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fdsf
+INFO:root:IRCClient.update -> msg: fdsf
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dsfsd
+INFO:root:IRCClient.update -> msg: dsfsd
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fsdf
+INFO:root:IRCClient.update -> msg: fsdf
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fsd
+INFO:root:IRCClient.update -> msg: fsd
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fs
+INFO:root:IRCClient.update -> msg: fs
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fdsfs
+INFO:root:IRCClient.update -> msg: fdsfs
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: 
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dsf
+INFO:root:IRCClient.update -> msg: dsf
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dfs
+INFO:root:IRCClient.update -> msg: dfs
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hi
+INFO:root:IRCClient.update -> msg: hi
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hj
+INFO:root:IRCClient.update -> msg: hj
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: h
+INFO:root:IRCClient.update -> msg: h
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: g
+INFO:root:IRCClient.update -> msg: g
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 114
+DEBUG:root:Character int: 119
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK marwan
+INFO:root:IRCClient.update -> msg: NICK marwan
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: m
+INFO:root:IRCClient.update -> msg: m
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: a
+INFO:root:IRCClient.update -> msg: a
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK gfgf
+INFO:root:IRCClient.update -> msg: NICK gfgf
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hi
+INFO:root:IRCClient.update -> msg: hi
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK
+INFO:root:IRCClient.update -> msg: NICK
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 98
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: bkh
+INFO:root:IRCClient.update -> msg: bkh
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK
+INFO:root:IRCClient.update -> msg: NICK
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cds
+INFO:root:IRCClient.update -> msg: cds
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dfd
+INFO:root:IRCClient.update -> msg: dfd
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK me
+INFO:root:IRCClient.update -> msg: NICK me
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: me
+INFO:root:IRCClient.update -> msg: me
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: nsdf
+INFO:root:IRCClient.update -> msg: nsdf
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: me
+INFO:root:IRCClient.update -> msg: me
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK me
+INFO:root:IRCClient.update -> msg: NICK me
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fds
+INFO:root:IRCClient.update -> msg: fds
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: 
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: me
+INFO:root:IRCClient.update -> msg: me
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 108
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fmdlkg
+INFO:root:IRCClient.update -> msg: fmdlkg
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dsg
+INFO:root:IRCClient.update -> msg: dsg
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: sdfsdfdsfsfdfdsdsffsds
+INFO:root:IRCClient.update -> msg: sdfsdfdsfsfdfdsdsffsds
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 121
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hey
+INFO:root:IRCClient.update -> msg: hey
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 121
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hey
+INFO:root:IRCClient.update -> msg: hey
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hi
+INFO:root:IRCClient.update -> msg: hi
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cmsd
+INFO:root:IRCClient.update -> msg: cmsd
+DEBUG:root:Character int: 118
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: vdcs
+INFO:root:IRCClient.update -> msg: vdcs
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: csdcs
+INFO:root:IRCClient.update -> msg: csdcs
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: csdcs
+INFO:root:IRCClient.update -> msg: csdcs
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 114
+DEBUG:root:Character int: 119
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK marwan
+INFO:root:IRCClient.update -> msg: NICK marwan
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 119
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dfwe
+INFO:root:IRCClient.update -> msg: dfwe
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fds
+INFO:root:IRCClient.update -> msg: fds
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fsdsf
+INFO:root:IRCClient.update -> msg: fsdsf
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fsddsdfs
+INFO:root:IRCClient.update -> msg: fsddsdfs
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fsdsf
+INFO:root:IRCClient.update -> msg: fsdsf
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fsdfs
+INFO:root:IRCClient.update -> msg: fsdfs
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dfs
+INFO:root:IRCClient.update -> msg: dfs
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: ffff
+INFO:root:IRCClient.update -> msg: ffff
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dsf
+INFO:root:IRCClient.update -> msg: dsf
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dsfsf
+INFO:root:IRCClient.update -> msg: dsfsf
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fsdfs
+INFO:root:IRCClient.update -> msg: fsdfs
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fsdfds
+INFO:root:IRCClient.update -> msg: fsdfds
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fssf
+INFO:root:IRCClient.update -> msg: fssf
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 114
+DEBUG:root:Character int: 119
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK marwan
+INFO:root:IRCClient.update -> msg: NICK marwan
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 114
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: mar
+INFO:root:IRCClient.update -> msg: mar
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: m
+INFO:root:IRCClient.update -> msg: m
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK me
+INFO:root:IRCClient.update -> msg: NICK me
+DEBUG:root:Character int: 118
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: vds
+INFO:root:IRCClient.update -> msg: vds
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cds
+INFO:root:IRCClient.update -> msg: cds
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cs
+INFO:root:IRCClient.update -> msg: cs
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cs
+INFO:root:IRCClient.update -> msg: cs
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: sc
+INFO:root:IRCClient.update -> msg: sc
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: sc
+INFO:root:IRCClient.update -> msg: sc
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: c
+INFO:root:IRCClient.update -> msg: c
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 108
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: kmndskl
+INFO:root:IRCClient.update -> msg: kmndskl
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cds
+INFO:root:IRCClient.update -> msg: cds
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cs
+INFO:root:IRCClient.update -> msg: cs
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cs
+INFO:root:IRCClient.update -> msg: cs
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK md
+INFO:root:IRCClient.update -> msg: NICK md
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dc
+INFO:root:IRCClient.update -> msg: dc
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cd
+INFO:root:IRCClient.update -> msg: cd
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cd
+INFO:root:IRCClient.update -> msg: cd
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cd
+INFO:root:IRCClient.update -> msg: cd
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 120
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: sxccd
+INFO:root:IRCClient.update -> msg: sxccd
+DEBUG:root:Character int: 3
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 108
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 114
+DEBUG:root:Character int: 87
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 118
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 114
+DEBUG:root:Character int: 54
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK similarWeaver6
+INFO:root:IRCClient.update -> msg: NICK similarWeaver6
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 118
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dv
+INFO:root:IRCClient.update -> msg: dv
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: 
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cs
+INFO:root:IRCClient.update -> msg: cs
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: sdsd
+INFO:root:IRCClient.update -> msg: sdsd
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 108
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cmsdkl
+INFO:root:IRCClient.update -> msg: cmsdkl
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK me
+INFO:root:IRCClient.update -> msg: NICK me
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: me
+INFO:root:IRCClient.update -> msg: me
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hu
+INFO:root:IRCClient.update -> msg: hu
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 118
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cvnsdjknc
+INFO:root:IRCClient.update -> msg: cvnsdjknc
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK me
+INFO:root:IRCClient.update -> msg: NICK me
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: me
+INFO:root:IRCClient.update -> msg: me
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hi
+INFO:root:IRCClient.update -> msg: hi
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: no
+INFO:root:IRCClient.update -> msg: no
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 114
+DEBUG:root:Character int: 119
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK marwan
+INFO:root:IRCClient.update -> msg: NICK marwan
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: m
+INFO:root:IRCClient.update -> msg: m
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: m
+INFO:root:IRCClient.update -> msg: m
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fds
+INFO:root:IRCClient.update -> msg: fds
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fdsfs
+INFO:root:IRCClient.update -> msg: fdsfs
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fs
+INFO:root:IRCClient.update -> msg: fs
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: scad
+INFO:root:IRCClient.update -> msg: scad
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 114
+DEBUG:root:Character int: 119
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK marwan
+INFO:root:IRCClient.update -> msg: NICK marwan
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: ms
+INFO:root:IRCClient.update -> msg: ms
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hi
+INFO:root:IRCClient.update -> msg: hi
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: me
+INFO:root:IRCClient.update -> msg: me
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 86
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NIVCC
+INFO:root:IRCClient.update -> msg: NIVCC
+DEBUG:root:Character int: 39
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: 'NICK 
+INFO:root:IRCClient.update -> msg: 'NICK 
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK me
+INFO:root:IRCClient.update -> msg: NICK me
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: k
+INFO:root:IRCClient.update -> msg: k
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: ds
+INFO:root:IRCClient.update -> msg: ds
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cds
+INFO:root:IRCClient.update -> msg: cds
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 114
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 108
+DEBUG:root:Character int: 80
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 48
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK mercifulPudding0
+INFO:root:IRCClient.update -> msg: NICK mercifulPudding0
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dsf
+INFO:root:IRCClient.update -> msg: dsf
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 92
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fds\
+INFO:root:IRCClient.update -> msg: fds\
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK me
+INFO:root:IRCClient.update -> msg: NICK me
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: 
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: 
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 118
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 118
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dvfdv
+INFO:root:IRCClient.update -> msg: dvfdv
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 118
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dvs
+INFO:root:IRCClient.update -> msg: dvs
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: csdf
+INFO:root:IRCClient.update -> msg: csdf
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cs
+INFO:root:IRCClient.update -> msg: cs
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dsf
+INFO:root:IRCClient.update -> msg: dsf
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fsd
+INFO:root:IRCClient.update -> msg: fsd
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fds
+INFO:root:IRCClient.update -> msg: fds
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: qqq
+INFO:root:IRCClient.update -> msg: qqq
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: d
+INFO:root:IRCClient.update -> msg: d
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: k
+INFO:root:IRCClient.update -> msg: k
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: df
+INFO:root:IRCClient.update -> msg: df
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fds
+INFO:root:IRCClient.update -> msg: fds
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fdsdsf
+INFO:root:IRCClient.update -> msg: fdsdsf
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: sdfsffdssffds
+INFO:root:IRCClient.update -> msg: sdfsffdssffds
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 119
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK maw
+INFO:root:IRCClient.update -> msg: NICK maw
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 108
+DEBUG:root:Character int: 119
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: mfdklwdfns
+INFO:root:IRCClient.update -> msg: mfdklwdfns
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: fdsfd
+INFO:root:IRCClient.update -> msg: fdsfd
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hi
+INFO:root:IRCClient.update -> msg: hi
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 114
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK mar
+INFO:root:IRCClient.update -> msg: NICK mar
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: ma
+INFO:root:IRCClient.update -> msg: ma
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: ms
+INFO:root:IRCClient.update -> msg: ms
+DEBUG:root:Character int: 53
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: 5
+INFO:root:IRCClient.update -> msg: 5
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK me
+INFO:root:IRCClient.update -> msg: NICK me
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: cs
+INFO:root:IRCClient.update -> msg: cs
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /quit
+INFO:root:IRCClient.update -> msg: /quit
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hi
+INFO:root:IRCClient.update -> msg: hi
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 121
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hey
+INFO:root:IRCClient.update -> msg: hey
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hi
+INFO:root:IRCClient.update -> msg: hi
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: noooooooooooooooooo
+INFO:root:IRCClient.update -> msg: noooooooooooooooooo
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: 
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /quit
+INFO:root:IRCClient.update -> msg: /quit
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hi
+INFO:root:IRCClient.update -> msg: hi
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hi
+INFO:root:IRCClient.update -> msg: hi
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 119
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 121
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: no way
+INFO:root:IRCClient.update -> msg: no way
+DEBUG:root:Character int: 121
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: yes
+INFO:root:IRCClient.update -> msg: yes
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 8
+DEBUG:root:Character int: 8
+DEBUG:root:Character int: 108
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK mel
+INFO:root:IRCClient.update -> msg: NICK mel
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: d
+INFO:root:IRCClient.update -> msg: d
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 121
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hey
+INFO:root:IRCClient.update -> msg: hey
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: ho
+INFO:root:IRCClient.update -> msg: ho
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK jk
+INFO:root:IRCClient.update -> msg: NICK jk
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: k
+INFO:root:IRCClient.update -> msg: k
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: mm
+INFO:root:IRCClient.update -> msg: mm
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 59
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: m;
+INFO:root:IRCClient.update -> msg: m;
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: sj
+INFO:root:IRCClient.update -> msg: sj
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: ssk
+INFO:root:IRCClient.update -> msg: ssk
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: kk
+INFO:root:IRCClient.update -> msg: kk
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: df
+INFO:root:IRCClient.update -> msg: df
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK fg
+INFO:root:IRCClient.update -> msg: NICK fg
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: ds
+INFO:root:IRCClient.update -> msg: ds
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dsds
+INFO:root:IRCClient.update -> msg: dsds
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 39
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK fg'
+INFO:root:IRCClient.update -> msg: NICK fg'
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: kj
+INFO:root:IRCClient.update -> msg: kj
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: n
+INFO:root:IRCClient.update -> msg: n
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK jk
+INFO:root:IRCClient.update -> msg: NICK jk
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dd
+INFO:root:IRCClient.update -> msg: dd
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: het
+INFO:root:IRCClient.update -> msg: het
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: jj
+INFO:root:IRCClient.update -> msg: jj
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 74
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICJ
+INFO:root:IRCClient.update -> msg: NICJ
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK fg
+INFO:root:IRCClient.update -> msg: NICK fg
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: he
+INFO:root:IRCClient.update -> msg: he
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: de
+INFO:root:IRCClient.update -> msg: de
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: he
+INFO:root:IRCClient.update -> msg: he
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: e
+INFO:root:IRCClient.update -> msg: e
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: e
+INFO:root:IRCClient.update -> msg: e
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: e
+INFO:root:IRCClient.update -> msg: e
+DEBUG:root:Character int: 101
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dedfe
+INFO:root:IRCClient.update -> msg: dedfe
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: e
+INFO:root:IRCClient.update -> msg: e
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK df
+INFO:root:IRCClient.update -> msg: NICK df
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: f
+INFO:root:IRCClient.update -> msg: f
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 121
+DEBUG:root:Character int: 121
+DEBUG:root:Character int: 121
+DEBUG:root:Character int: 121
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: heyyyy
+INFO:root:IRCClient.update -> msg: heyyyy
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: j
+INFO:root:IRCClient.update -> msg: j
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK jk
+INFO:root:IRCClient.update -> msg: NICK jk
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: ho
+INFO:root:IRCClient.update -> msg: ho
+DEBUG:root:Character int: 119
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: wfed
+INFO:root:IRCClient.update -> msg: wfed
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 114
+DEBUG:root:Character int: 69
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 50
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dearEggs2
+INFO:root:IRCClient.update -> msg: dearEggs2
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 114
+DEBUG:root:Character int: 69
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 50
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK dearEggs2
+INFO:root:IRCClient.update -> msg: NICK dearEggs2
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: ds
+INFO:root:IRCClient.update -> msg: ds
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK jk
+INFO:root:IRCClient.update -> msg: NICK jk
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hd
+INFO:root:IRCClient.update -> msg: hd
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: sd
+INFO:root:IRCClient.update -> msg: sd
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hi
+INFO:root:IRCClient.update -> msg: hi
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: jk
+INFO:root:IRCClient.update -> msg: jk
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hg
+INFO:root:IRCClient.update -> msg: hg
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dsd
+INFO:root:IRCClient.update -> msg: dsd
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK jkd
+INFO:root:IRCClient.update -> msg: NICK jkd
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /quit
+INFO:root:IRCClient.update -> msg: /quit
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 98
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hbjh
+INFO:root:IRCClient.update -> msg: hbjh
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /quit
+INFO:root:IRCClient.update -> msg: /quit
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: dfsf
+INFO:root:IRCClient.update -> msg: dfsf
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /quit
+INFO:root:IRCClient.update -> msg: /quit
+DEBUG:root:Closing IRC Client object
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 39
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /quit'
+INFO:root:IRCClient.update -> msg: /quit'
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 98
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: bjh
+INFO:root:IRCClient.update -> msg: bjh
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 98
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: mnb jh
+INFO:root:IRCClient.update -> msg: mnb jh
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: quit
+INFO:root:IRCClient.update -> msg: quit
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /quit
+INFO:root:IRCClient.update -> msg: /quit
+DEBUG:root:Closing IRC Client object
+DEBUG:root:KeyboardInterrupt detected within the view
+DEBUG:root:Signifies end of process
+DEBUG:root:Exiting context and closing View object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: d
+INFO:root:IRCClient.update -> msg: d
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /quit
+INFO:root:IRCClient.update -> msg: /quit
+DEBUG:root:KeyboardInterrupt detected within the view
+DEBUG:root:Closing IRC Client object
+DEBUG:root:Signifies end of process
+DEBUG:root:Exiting context and closing View object
+DEBUG:root:Closing IRC Client object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 98
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hjbjh
+INFO:root:IRCClient.update -> msg: hjbjh
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 118
+DEBUG:root:Character int: 10
+DEBUG:root:Input line:  hjgjhv
+INFO:root:IRCClient.update -> msg:  hjgjhv
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /quit
+INFO:root:IRCClient.update -> msg: /quit
+DEBUG:root:KeyboardInterrupt detected within the view
+DEBUG:root:Closing IRC Client object
+DEBUG:root:Signifies end of process
+DEBUG:root:Exiting context and closing View object
+DEBUG:root:Closing IRC Client object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 108
+DEBUG:root:Character int: 108
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hello
+INFO:root:IRCClient.update -> msg: hello
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 121
+DEBUG:root:Character int: 121
+DEBUG:root:Character int: 121
+DEBUG:root:Character int: 121
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: heyyyy
+INFO:root:IRCClient.update -> msg: heyyyy
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 114
+DEBUG:root:Character int: 119
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK marwan
+INFO:root:IRCClient.update -> msg: NICK marwan
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: m
+INFO:root:IRCClient.update -> msg: m
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 98
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK bick
+INFO:root:IRCClient.update -> msg: NICK bick
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 98
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 114
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK bicher
+INFO:root:IRCClient.update -> msg: NICK bicher
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: j
+INFO:root:IRCClient.update -> msg: j
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 72
+DEBUG:root:Character int: 69
+DEBUG:root:Character int: 82
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICHER
+INFO:root:IRCClient.update -> msg: NICHER
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 98
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 114
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK bicher
+INFO:root:IRCClient.update -> msg: NICK bicher
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: jsdf
+INFO:root:IRCClient.update -> msg: jsdf
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /quit
+INFO:root:IRCClient.update -> msg: /quit
+DEBUG:root:KeyboardInterrupt detected within the view
+DEBUG:root:Closing IRC Client object
+DEBUG:root:Signifies end of process
+DEBUG:root:Exiting context and closing View object
+DEBUG:root:Closing IRC Client object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /quit
+INFO:root:IRCClient.update -> msg: /quit
+DEBUG:root:KeyboardInterrupt detected within the view
+DEBUG:root:Closing IRC Client object
+DEBUG:root:Signifies end of process
+DEBUG:root:Exiting context and closing View object
+DEBUG:root:Closing IRC Client object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 107
+DEBUG:root:Character int: 102
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 100
+DEBUG:root:Character int: 115
+DEBUG:root:Character int: 106
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: jkfndsj
+INFO:root:IRCClient.update -> msg: jkfndsj
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 103
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: g
+INFO:root:IRCClient.update -> msg: g
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 8
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /qiu
+INFO:root:IRCClient.update -> msg: /qiu
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /quit
+INFO:root:IRCClient.update -> msg: /quit
+DEBUG:root:KeyboardInterrupt detected within the view
+DEBUG:root:Closing IRC Client object
+DEBUG:root:Signifies end of process
+DEBUG:root:Exiting context and closing View object
+DEBUG:root:Closing IRC Client object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /quit
+INFO:root:IRCClient.update -> msg: /quit
+DEBUG:root:KeyboardInterrupt detected within the view
+DEBUG:root:Closing IRC Client object
+DEBUG:root:Signifies end of process
+DEBUG:root:Exiting context and closing View object
+DEBUG:root:Closing IRC Client object
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:root:Client object created
+INFO:root:Entered the context of a View object
+DEBUG:root:Passed View object to IRC Client
+DEBUG:root:IRC Client is subscribed to the View (to receive user input)
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: hi
+INFO:root:IRCClient.update -> msg: hi
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: ho
+INFO:root:IRCClient.update -> msg: ho
+DEBUG:root:Character int: 104
+DEBUG:root:Character int: 101
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: he
+INFO:root:IRCClient.update -> msg: he
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 109
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK m
+INFO:root:IRCClient.update -> msg: NICK m
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 110
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK n
+INFO:root:IRCClient.update -> msg: NICK n
+DEBUG:root:Character int: 78
+DEBUG:root:Character int: 73
+DEBUG:root:Character int: 67
+DEBUG:root:Character int: 75
+DEBUG:root:Character int: 32
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: NICK o
+INFO:root:IRCClient.update -> msg: NICK o
+DEBUG:root:Character int: 97
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: a
+INFO:root:IRCClient.update -> msg: a
+DEBUG:root:Character int: 98
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: b
+INFO:root:IRCClient.update -> msg: b
+DEBUG:root:Character int: 99
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: c
+INFO:root:IRCClient.update -> msg: c
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /quit
+INFO:root:IRCClient.update -> msg: /quit
+DEBUG:root:KeyboardInterrupt detected within the view
+DEBUG:root:Closing IRC Client object
+DEBUG:root:Signifies end of process
+DEBUG:root:Exiting context and closing View object
+DEBUG:root:Closing IRC Client object
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 111
+DEBUG:root:Character int: 8
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /quio
+INFO:root:IRCClient.update -> msg: /quio
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: quit
+INFO:root:IRCClient.update -> msg: quit
+DEBUG:root:Character int: 47
+DEBUG:root:Character int: 113
+DEBUG:root:Character int: 117
+DEBUG:root:Character int: 105
+DEBUG:root:Character int: 116
+DEBUG:root:Character int: 10
+DEBUG:root:Input line: /quit
+INFO:root:IRCClient.update -> msg: /quit
+DEBUG:root:KeyboardInterrupt detected within the view
+DEBUG:root:Closing IRC Client object
+DEBUG:root:Signifies end of process
+DEBUG:root:Exiting context and closing View object
+DEBUG:root:Closing IRC Client object

@@ -4,12 +4,8 @@ import threading
 import os
 from random_username.generate import generate_username
 
-HEADER = 64
 PORT = 8080
 SERVER = "127.0.0.1"
-ADDR = (SERVER, PORT)
-FORMAT = 'utf-8'
-DISCONNECT_MESSAGE = "!DISCONNECT"
 
 # list of clients and their nicknames ... list of tuples ==> [(nickname,client)]
 clients = []
@@ -55,9 +51,12 @@ def remove_client(client):
             x=usernames[index] 
             # notify all user that cleint has left
             print(f"{x} has left the channel")
-            send_received_message(f'#global<:::>{x} has left the channel'.encode('utf-8'))
+            send_received_message(f'#global<:::>-- {x} has left the channel -- '.encode('utf-8'))
             usernames.remove(x)   
         index+=1
+    if(len(usernames)<1):
+        print("no more client ... exiting")
+        os._exit(0)
     
     
 def start():

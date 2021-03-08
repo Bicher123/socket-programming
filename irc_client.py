@@ -19,15 +19,8 @@ import view
 
 import argparse
 import socket
-import select
 import threading
 
-HEADER = 64
-PORT = 8080
-FORMAT = 'utf-8'
-DISCONNECT_MESSAGE = "!DISCONNECT"
-SERVER = "127.0.0.1"
-ADDR = (SERVER, PORT)
 logging.basicConfig(filename='view.log', level=logging.DEBUG)
 logger = logging.getLogger()
 
